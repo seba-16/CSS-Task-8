@@ -1,0 +1,21 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	
+}
+.container{
+	width: 100%;
+	padding: 50px;
+	background-color: red;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	
+}
+.img{
+	
+	width: 400px;
+	height: 100%;
+	padding: 20px;
+	align-items: center;
+}
